@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+第3章
+ほぼ静的なページの作成
+'18/09/19
+Susumu Chida
